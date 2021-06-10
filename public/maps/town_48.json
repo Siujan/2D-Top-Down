@@ -1,0 +1,672 @@
+{
+    "name" : "Town",
+    "width_grid": "24",
+    "height_grid": "18",
+    "grounds" : [
+        { 
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 42
+        },
+        {
+            "src" : "./assets/exterior_48/ (211).png",
+            "walkable" : true,
+            "count" : 1
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 2            
+        },
+        {
+            "src" : "./assets/exterior_48/ (213).png",
+            "walkable" : true,
+            "count" : 1    
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1            
+        },
+        {
+            "src" : "./assets/exterior_48/ (26).png",
+            "walkable" : false,
+            "count" : 1    
+        },
+        { 
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 42
+        },
+        {
+            "src" : "./assets/exterior_48/ (92).png",
+            "walkable" : true,
+            "count" : 1     
+        },
+        {
+            "src" : "./assets/exterior_48/ (93).png",
+            "walkable" : true,
+            "count" : 3     
+        },
+        {
+            "src" : "./assets/exterior_48/ (94).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        { 
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 8
+        },
+        {
+            "src" : "./assets/exterior_48/ (225).png",
+            "walkable" : true,
+            "count" : 1  
+        },
+        {
+            "src" : "./assets/exterior_48/ (226).png",
+            "walkable" : true,
+            "count" : 8  
+        },
+        {
+            "src" : "./assets/exterior_48/ (227).png",
+            "walkable" : true,
+            "count" : 1
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1        
+        },
+        {
+            "src" : "./assets/exterior_48/ (127).png",
+            "walkable" : true,
+            "count" : 1        
+        },
+        {
+            "src" : "./assets/exterior_48/ (150).png",
+            "walkable" : true,
+            "count" : 3        
+        },
+        {
+            "src" : "./assets/exterior_48/ (129).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+
+
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 8   
+        },
+        {
+            "src" : "./assets/exterior_48/ (252).png",
+            "walkable" : true,
+            "count" : 1
+        },
+        {
+            "src" : "./assets/exterior_48/ (253).png",
+            "walkable" : true,
+            "count" : 8
+        },
+        {
+            "src" : "./assets/exterior_48/ (254).png",
+            "walkable" : true,
+            "count" : 1
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1
+        },
+        {
+            "src" : "./assets/exterior_48/ (127).png",
+            "walkable" : true,
+            "count" : 1        
+        },
+        {
+            "src" : "./assets/exterior_48/ (151).png",
+            "walkable" : true,
+            "count" : 3
+        },
+        {
+            "src" : "./assets/exterior_48/ (129).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 8   
+        },
+        {
+            "src" : "./assets/exterior_48/ (252).png",
+            "walkable" : true,
+            "count" : 1
+        },
+        {
+            "src" : "./assets/exterior_48/ (253).png",
+            "walkable" : true,
+            "count" : 8
+        },
+        {
+            "src" : "./assets/exterior_48/ (254).png",
+            "walkable" : true,
+            "count" : 1
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1
+        },
+        {
+            "src" : "./assets/exterior_48/ (127).png",
+            "walkable" : true,
+            "count" : 1        
+        },
+        {
+            "src" : "./assets/exterior_48/ (152).png",
+            "walkable" : true,
+            "count" : 3
+        },
+        {
+            "src" : "./assets/exterior_48/ (129).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 2      
+        },
+        {
+            "src" : "./assets/exterior_48/ (225).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (226).png",
+            "walkable" : true,
+            "count" : 5      
+        },
+        {
+            "src" : "./assets/exterior_48/ (164).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (253).png",
+            "walkable" : true,
+            "count" : 8      
+        },
+        {
+            "src" : "./assets/exterior_48/ (254).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (158).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (159).png",
+            "walkable" : true,
+            "count" : 3      
+        },
+        {
+            "src" : "./assets/exterior_48/ (160).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 2      
+        },
+        {
+            "src" : "./assets/exterior_48/ (284).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (285).png",
+            "walkable" : true,
+            "count" : 5      
+        },
+        {
+            "src" : "./assets/exterior_48/ (191).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (253).png",
+            "walkable" : true,
+            "count" : 8      
+        },
+        {
+            "src" : "./assets/exterior_48/ (254).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (212).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 7      
+        },
+        {
+            "src" : "./assets/exterior_48/ (60).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 5      
+        },
+        {
+            "src" : "./assets/exterior_48/ (252).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (253).png",
+            "walkable" : true,
+            "count" : 8      
+        },
+        {
+            "src" : "./assets/exterior_48/ (254).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (31).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 7      
+        },
+        {
+            "src" : "./assets/exterior_48/ (31).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (273).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (357).png",
+            "walkable" : true,
+            "count" : 2      
+        },
+        {
+            "src" : "./assets/exterior_48/ (274).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (252).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (253).png",
+            "walkable" : true,
+            "count" : 8      
+        },
+        {
+            "src" : "./assets/exterior_48/ (254).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 6      
+        },
+        {
+            "src" : "./assets/exterior_48/ (26).png",
+            "walkable" : false,
+            "count" : 1      
+        },
+
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 2      
+        },
+        {
+            "src" : "./assets/exterior_48/ (341).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (375).png",
+            "walkable" : true,
+            "count" : 2      
+        },
+        {
+            "src" : "./assets/exterior_48/ (339).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (252).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (253).png",
+            "walkable" : true,
+            "count" : 8      
+        },
+        {
+            "src" : "./assets/exterior_48/ (165).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (226).png",
+            "walkable" : true,
+            "count" : 5      
+        },
+        {
+            "src" : "./assets/exterior_48/ (227).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 3      
+        },
+
+        {
+            "src" : "./assets/exterior_48/ (341).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (375).png",
+            "walkable" : true,
+            "count" : 2      
+        },
+        {
+            "src" : "./assets/exterior_48/ (339).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (284).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (285).png",
+            "walkable" : true,
+            "count" : 8      
+        },
+        {
+            "src" : "./assets/exterior_48/ (286).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 3      
+        },
+        {
+            "src" : "./assets/exterior_48/ (341).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (375).png",
+            "walkable" : true,
+            "count" : 2      
+        },
+        {
+            "src" : "./assets/exterior_48/ (339).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (284).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (285).png",
+            "walkable" : true,
+            "count" : 8      
+        },
+        {
+            "src" : "./assets/exterior_48/ (286).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (27).png",
+            "walkable" : false,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (31).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 2      
+        },
+        {
+            "src" : "./assets/exterior_48/ (60).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 2      
+        },
+        {
+            "src" : "./assets/exterior_48/ (341).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (375).png",
+            "walkable" : true,
+            "count" : 2      
+        },
+        {
+            "src" : "./assets/exterior_48/ (339).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 12      
+        },
+        {
+            "src" : "./assets/exterior_48/ (75).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (76).png",
+            "walkable" : true,
+            "count" : 3      
+        },
+        {
+            "src" : "./assets/exterior_48/ (77).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 3      
+        },
+        {
+            "src" : "./assets/exterior_48/ (38).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (66).png",
+            "walkable" : true,
+            "count" : 2      
+        },
+        {
+            "src" : "./assets/exterior_48/ (39).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 12      
+        },
+        {
+            "src" : "./assets/exterior_48/ (108).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (109).png",
+            "walkable" : true,
+            "count" : 3      
+        },
+        {
+            "src" : "./assets/exterior_48/ (110).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 3      
+        },
+        {
+            "src" : "./assets/exterior_48/ (31).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (31).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (60).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 11      
+        },
+        {
+            "src" : "./assets/exterior_48/ (108).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (109).png",
+            "walkable" : true,
+            "count" : 3      
+        },
+        {
+            "src" : "./assets/exterior_48/ (110).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 19      
+        },
+        {
+            "src" : "./assets/exterior_48/ (139).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (145).png",
+            "walkable" : true,
+            "count" : 3      
+        },
+        {
+            "src" : "./assets/exterior_48/ (146).png",
+            "walkable" : true,
+            "count" : 1      
+        },
+        {
+            "src" : "./assets/exterior_48/ (99).png",
+            "walkable" : true,
+            "count" : 1      
+        }
+    ]
+}

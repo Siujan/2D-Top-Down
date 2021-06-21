@@ -1,0 +1,767 @@
+{
+    "name": "Town",
+    "init_pos":[4,10],
+    "char_dir":3,
+    "width_grid": 21,
+    "height_grid": 13,
+    "objects": [
+        [
+            {
+                "src": "./assets/generic/ (396).png",
+                "coord": [2, 1],
+                "size": [1, 3]
+            },
+            {
+                "src": "./assets/generic/ (396).png",
+                "coord": [3, 1],
+                "size": [1, 3]
+            },
+            {
+                "src": "./assets/library_classroom/ (22).png",
+                "coord": [4, 1],
+                "size": [2, 3]                
+            },
+            {
+                "src": "./assets/library_classroom/ (24).png",
+                "coord": [6, 1],
+                "size": [2, 3]                
+            },
+            {
+                "src": "./assets/library_classroom/ (26).png",
+                "coord": [8, 1],
+                "size": [2, 3]                
+            },
+            {
+                "src": "./assets/library_classroom/ (23).png",
+                "coord": [10, 1],
+                "size": [2, 3]                
+            },
+            {
+                "src": "./assets/generic/ (363).png",
+                "coord": [12, 1],
+                "size": [2, 3]                
+            },
+            {
+                "src": "./assets/library_classroom/ (20).png",
+                "coord": [14, 2],
+                "size": [1, 2]                
+            },
+            {
+                "src": "./assets/generic/ (38).png",
+                "coord": [16, 2],
+                "size": [1, 2]                
+            },
+            {
+                "src": "./assets/library_classroom/ (11).png",
+                "coord": [15, 1],
+                "size": [1, 2]                
+            },
+            {
+                "src": "./assets/library_classroom/ (32).png",
+                "coord": [17, 1],
+                "size": [4, 3]                 
+            },
+            
+            {
+                "src": "./assets/library_classroom/ (22).png",
+                "coord": [2, 5],
+                "size": [2, 3]                
+            },
+            {
+                "src": "./assets/library_classroom/ (23).png",
+                "coord": [4, 5],
+                "size": [2, 3]                
+            },
+            {
+                "src": "./assets/library_classroom/ (24).png",
+                "coord": [6, 5],
+                "size": [2, 3]                
+            },
+            {
+                "src": "./assets/library_classroom/ (25).png",
+                "coord": [8, 5],
+                "size": [2, 3]                
+            },
+            {
+                "src": "./assets/library_classroom/ (26).png",
+                "coord": [10, 5],
+                "size": [2, 3]                
+            },
+            {
+                "src": "./assets/library_classroom/ (27).png",
+                "coord": [12, 5],
+                "size": [2, 3]                
+            },
+            {
+                "src": "./assets/generic/ (38).png",
+                "coord": [14, 5],
+                "size": [1, 2]                
+            },
+            {
+                "src": "./assets/generic/ (38).png",
+                "coord": [15, 5],
+                "size": [1, 2]                
+            },
+
+
+            {
+                "src": "./assets/generic/(691).png",
+                "coord": [17, 8],
+                "size": [4, 5]                
+            },
+            {
+                "src": "./assets/generic/ (363).png",
+                "coord": [2, 9],
+                "size": [2, 3]  
+            },
+            {
+                "src": "./assets/generic/ (49).png",
+                "coord": [4, 9],
+                "size": [1, 1]                 
+            },
+            {
+                "src": "./assets/generic/ (49).png",
+                "coord": [5, 9],
+                "size": [1, 1]                 
+            },
+            {
+                "src": "./assets/generic/ (49).png",
+                "coord": [6, 9],
+                "size": [1, 1]                 
+            },
+            {
+                "src": "./assets/generic/ (62).png",
+                "coord": [4, 10],
+                "size": [1, 1]                 
+            },
+            {
+                "src": "./assets/generic/ (62).png",
+                "coord": [5, 10],
+                "size": [1, 1]                 
+            },
+            {
+                "src": "./assets/generic/ (62).png",
+                "coord": [6, 10],
+                "size": [1, 1]                 
+            },
+            {
+                "src": "./assets/generic/ (39).png",
+                "coord": [7, 9],
+                "size": [1, 2]                 
+            },
+            {
+                "src": "./assets/library_classroom/(68).png",
+                "coord": [8, 9],
+                "size": [4, 3]                 
+            },
+            {
+                "src": "./assets/library_classroom/ (35).png",
+                "coord": [12, 10],
+                "size": [5, 3]                 
+            }                            
+        ],
+        [
+            {
+                "src": "./assets/generic/ (218).png",
+                "coord": [2, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [3, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [4, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [5, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [6, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [7, 8],
+                "size": [1, 1]                
+            },
+            
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [8, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [9, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [10, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [11, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [12, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [13, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [14, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [15, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/ (219).png",
+                "coord": [16, 8],
+                "size": [1, 1]                
+            },
+            {
+                "src": "./assets/generic/(692).png",
+                "coord": [17, 7],
+                "size": [4, 1]  
+            }            
+        ]
+    ],
+    "grounds": [
+            {
+                "src": "./assets/tileset_1/ (5).png",
+                "walkable": true,
+                "count": 1
+            }, 
+            {
+                "src": "./assets/tileset_1/ (6).png",
+                "walkable": true,
+                "count": 14
+            },
+            {
+                "src": "./assets/tileset_1/ (48).png",
+                "walkable": true,
+                "count": 1  
+            },
+            {
+                "src": "./assets/tileset_1/ (6).png",
+                "walkable": true,
+                "count": 4
+            },
+            {
+                "src": "./assets/tileset_1/ (8).png",
+                "walkable": true,   
+                "count": 1           
+            },
+
+
+            {
+                "src": "./assets/tileset_1/ (14).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (15).png",
+                "walkable": true,
+                "count": 14
+            },
+            {
+                "src": "./assets/tileset_1/ (78).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (15).png",
+                "walkable": true,
+                "count": 4
+            },
+            {
+                "src": "./assets/tileset_1/ (17).png",
+                "walkable": true,
+                "count": 1
+            },
+            
+            {
+                "src": "./assets/tileset_1/ (14).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (24).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (25).png",
+                "walkable": true,
+                "count": 13
+            },
+            {
+                "src": "./assets/tileset_1/ (87).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (25).png",
+                "walkable": true,
+                "count": 4
+            },
+            {
+                "src": "./assets/tileset_1/ (17).png",
+                "walkable": true,
+                "count": 1
+            },
+
+            {
+                "src": "./assets/tileset_1/ (14).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (33).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (34).png",
+                "walkable": true,
+                "count": 18
+            },
+            {
+                "src": "./assets/tileset_1/ (17).png",
+                "walkable": true,
+                "count": 1
+            },
+            
+            {
+                "src": "./assets/tileset_1/ (14).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (6).png",
+                "walkable": true,
+                "count": 13
+            },
+            {
+                "src": "./assets/tileset_1/ (13).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (34).png",
+                "walkable": true,
+                "count": 5       
+            },
+            {
+                "src": "./assets/tileset_1/ (17).png",
+                "walkable": true,
+                "count": 1
+            },
+
+            {
+                "src": "./assets/tileset_1/ (14).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (15).png",
+                "walkable": true,
+                "count": 13
+            },
+            {
+                "src": "./assets/tileset_1/ (22).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (33).png",
+                "walkable": true,
+                "count": 1   
+            },
+            {
+                "src": "./assets/tileset_1/ (34).png",
+                "walkable": true,
+                "count": 4       
+            },
+            {
+                "src": "./assets/tileset_1/ (17).png",
+                "walkable": true,
+                "count": 1
+            },
+
+            {
+                "src": "./assets/tileset_1/ (14).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (24).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (25).png",
+                "walkable": true,
+                "count": 13
+            },
+            {
+                "src": "./assets/tileset_1/ (38).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (34).png",
+                "walkable": true,
+                "count": 4
+            },
+            {
+                "src": "./assets/tileset_1/ (17).png",
+                "walkable": true,
+                "count": 1
+            },
+
+            {
+                "src": "./assets/tileset_1/ (14).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (33).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_1/ (34).png",
+                "walkable": true,
+                "count": 18
+            },
+            {
+                "src": "./assets/tileset_1/ (17).png",
+                "walkable": true,
+                "count": 1
+            },
+
+            {
+                "src": "./assets/tileset_1/ (14).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/generic/ (231).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/generic/ (232).png",
+                "walkable": true,
+                "count": 18
+            },
+            {
+                "src": "./assets/tileset_1/ (17).png",
+                "walkable": true,
+                "count": 1
+            },
+
+            {
+                "src": "./assets/tileset_1/ (14).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/generic/ (241).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/generic/ (242).png",
+                "walkable": true,
+                "count": 18
+            },
+            {
+                "src": "./assets/tileset_1/ (17).png",
+                "walkable": true,
+                "count": 1
+            },
+
+            {
+                "src": "./assets/tileset_1/ (14).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (26).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (27).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (57).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (56).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (58).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (27).png",
+                "walkable": true,
+                "count": 14
+            },
+            {
+                "src": "./assets/tileset_1/ (17).png",
+                "walkable": true,
+                "count": 1
+            },
+            
+            {
+                "src": "./assets/tileset_1/ (14).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (36).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (37).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (87).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (66).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (88).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (37).png",
+                "walkable": true,
+                "count": 11
+            }, 
+            {
+                "src": "./assets/tileset_2/ (89).png",
+                "walkable": true,
+                "count": 1
+            }, 
+            {
+                "src": "./assets/tileset_2/ (90).png",
+                "walkable": true,
+                "count": 1
+            }, 
+            {
+                "src": "./assets/tileset_2/ (37).png",
+                "walkable": true,
+                "count": 1
+            }, 
+            {
+                "src": "./assets/tileset_1/ (17).png",
+                "walkable": true,
+                "count": 1
+            },            
+
+            {
+                "src": "./assets/tileset_1/ (14).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (36).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (37).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (48).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (86).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (75).png",
+                "walkable": true,
+                "count": 1
+            },
+            {
+                "src": "./assets/tileset_2/ (79).png",
+                "walkable": true,
+                "count": 11
+            }, 
+            {
+                "src": "./assets/tileset_2/ (74).png",
+                "walkable": true,
+                "count": 1
+            }, 
+            {
+                "src": "./assets/tileset_2/ (50).png",
+                "walkable": true,
+                "count": 1
+            }, 
+            {
+                "src": "./assets/tileset_2/ (37).png",
+                "walkable": true,
+                "count": 1
+            }, 
+            {
+                "src": "./assets/tileset_1/ (17).png",
+                "walkable": true,
+                "count": 1
+            },
+            
+            {
+                "src": "./assets/tileset_2/ (44).png",
+                "walkable": true,
+                "count": 1    
+            },
+            {
+                "src": "./assets/tileset_2/ (45).png",
+                "walkable": true,
+                "count": 19    
+            },
+            {
+                "src": "./assets/tileset_2/ (47).png",
+                "walkable": true,
+                "count": 1    
+            }
+     ],
+    "collisions": [
+        [
+            {
+                "coord": [2, 2],
+                "size": [14, 1]
+            },
+            {
+                "coord": [16, 3],
+                "size": [1, 1]
+            },
+            {
+                "coord": [17, 2],
+                "size": [4, 1]       
+            },
+            {
+                "coord": [1, 3],
+                "size": [1, 2]                
+            },
+            {
+                "coord": [2, 5],
+                "size": [12, 2]                
+            },
+            {
+                "coord": [14, 5],
+                "size": [2, 1]                  
+            },
+            {
+                "coord": [21, 3],
+                "size": [1, 5]                  
+            },
+            {
+                "coord": [2, 10],
+                "size": [2, 1]                   
+            },
+            {
+                "coord": [7, 10],
+                "size": [6, 1]                   
+            },
+            {
+                "coord": [13, 11],
+                "size": [3, 1]             
+            },
+            {
+                "coord": [16, 10],
+                "size": [1, 1]             
+            },
+            {
+                "coord": [17, 8],
+                "size": [1, 4]             
+            },
+            {
+                "coord": [20, 8],
+                "size": [2, 4]                    
+            },
+            {
+                "coord":[1,9],
+                "size":[16,1]
+            },
+            {
+                "coord":[1,14],
+                "size":[20,1]
+            },
+            {
+                "coord":[1,11],
+                "size":[1,3]      
+            },
+            {
+                "coord":[21,12],
+                "size":[1,2]             
+            }                
+        ]
+    ],
+    "floor": [{
+        "coord": [17, 16],
+        "size": [1, 1],
+        "direction": 0
+    }],
+    "dialogs": [
+        [
+            {
+                "coord": [14, 11],
+                "name": "librarian",
+                "chats": [
+                    "Hi Welcome to the library",
+                    "you can check the computer above to know the education history of sugianto"
+                ]
+            }
+        ]
+    ],
+    "routes":[
+        [
+
+        ]
+    ]
+}
